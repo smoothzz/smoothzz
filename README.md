@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @smoothzz
+- 👋 Hi, I’m Thiago Antunes @smoothzz
 - 👀 I’m interested in Infraestructure, DevOps and Automation
 - 🌱 I’m currently learning DevOps
-- 📫 How to reach me rdoa.thiago@gmail.com
+- Currently playing a role as DevOps Analyst Trainee
+- 📫 How to reach me rdoa.thiago@gmail.com, https://fb.com/tiihxp
 
 <!---
 smoothzz/smoothzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
