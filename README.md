@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thiago Antunes @smoothzz
 - 👀 I’m interested in Infraestructure, DevOps and Automation
-- 🌱 I’m currently learning DevOps
 - Currently playing a role as DevOps Engineer at @Getup
 - 📫 How to reach me rdoa.thiago@gmail.com, https://fb.com/tiihxp
 
