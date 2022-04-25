@@ -8,4 +8,4 @@ smoothzz/smoothzz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href=”https://www.linkedin.com/in/thiago-antunes-76590698/"><img align=”left” src=”https://raw.githubusercontent.com/smoothzz/smoothzz/main/icons/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/thiago-antunes-76590698"><img align=”left” src=”https://raw.githubusercontent.com/smoothzz/smoothzz/main/icons/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
