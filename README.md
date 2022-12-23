@@ -1,11 +1,16 @@
 - 👋 Hi, I’m Thiago Antunes @smoothzz
 - 👀 I’m interested in Infraestructure, DevOps and Automation
 - Currently playing a role as Site Reliability Engineer at @Stone
+- Certifications: <br>
+  • <a href="https://www.credly.com/badges/76d88ae7-e29d-498e-b29e-ff22d1be654b?source=linked_in_profile" target="_blank" rel="noreferrer">Azure Fundamentals</a> <br>
+  • <a href="https://gitlab.badgr.com/public/assertions/0HOvKnOYRsqGjfMRibyFyA" target="_blank" rel="noreferrer">GitLab Certified Associate</a> <br>
+  • <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F6071FC2390CA09C8851494DE88A2A9099DE6145AC9EBF9D054CDF1C07B1C830" target="_blank" rel="noreferrer">Oracle Cloud Infrastructure Fundations Associate</a> <br>
+  • <a href="https://www.credly.com/badges/821a16b6-2acb-490a-a3d2-fb0533da8a05?source=linked_in_profile" target="_blank" rel="noreferrer">Certified Kubernetes Administrator</a> <br>
+  • <a href="https://www.credly.com/badges/1a1dad53-c753-4c14-a72d-41401b0d5f09/public_url" target="_blank" rel="noreferrer">Certified Kubernetes Security Specialist</a> <br>
 <!---
 smoothzz/smoothzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/thiago-antunes-76590698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-antunes-76590698/" height="30" width="40" /></a>
