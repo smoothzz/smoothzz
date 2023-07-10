@@ -8,8 +8,6 @@
   • <a href="https://www.credly.com/badges/821a16b6-2acb-490a-a3d2-fb0533da8a05?source=linked_in_profile" target="_blank" rel="noreferrer">Certified Kubernetes Administrator</a> <br>
   • <a href="https://www.credly.com/badges/1a1dad53-c753-4c14-a72d-41401b0d5f09/public_url" target="_blank" rel="noreferrer">Certified Kubernetes Security Specialist</a> <br>
   • <a href="https://www.credly.com/badges/17ca2067-318d-4f73-92ec-14068d6559a9" target="_blank" rel="noreferrer">AWS Certified Cloud Practitioner</a> <br>
-
-  https://www.credly.com/badges/17ca2067-318d-4f73-92ec-14068d6559a9/linked_in?t=rx2gv8
 <!---
 smoothzz/smoothzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
