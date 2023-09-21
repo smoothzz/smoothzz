@@ -13,6 +13,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-thiagoantunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-antunes-76590698/)](https://www.linkedin.com/in/thiago-antunes-76590698/)
 [![Gmail Badge](https://img.shields.io/badge/-rdoa.thiago@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdoa.thiago@gmail.com)](mailto:rdoa.thiago@gmail.com)
 
+## Languages and Tools
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
