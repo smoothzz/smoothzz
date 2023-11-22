@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Antunes @smoothzz
 - 👀 I’m interested in Infraestructure, DevOps and Automation
-- Currently playing a role as Site Reliability Engineer at @Stone
+- Currently playing a role as Senior Technical Support Engineer at Red Hat
 - Certifications: <br>
   • <a href="https://www.credly.com/badges/76d88ae7-e29d-498e-b29e-ff22d1be654b?source=linked_in_profile" target="_blank" rel="noreferrer">Azure Fundamentals</a> <br>
   • <a href="https://gitlab.badgr.com/public/assertions/0HOvKnOYRsqGjfMRibyFyA" target="_blank" rel="noreferrer">GitLab Certified Associate</a> <br>
