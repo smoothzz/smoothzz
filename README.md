@@ -9,6 +9,7 @@
   • <a href="https://www.credly.com/badges/1a1dad53-c753-4c14-a72d-41401b0d5f09/public_url" target="_blank" rel="noreferrer">Certified Kubernetes Security Specialist</a> <br>
   • <a href="https://www.credly.com/badges/17ca2067-318d-4f73-92ec-14068d6559a9" target="_blank" rel="noreferrer">AWS Certified Cloud Practitioner</a> <br>
   • <a href="https://www.credly.com/badges/fe18fe17-f482-4896-b484-63a8fd3c607c" target="_blank" rel="noreferrer">Red Hat Certified System Administrator (RHCSA)</a> <br>
+  • <a href="https://www.credly.com/badges/b56ced84-24ca-45b3-80ef-44331fde7542" target="_blank" rel="noreferrer">Red Hat Certified Engineer (RHCE)</a> <br>
   
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-thiagoantunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-antunes-76590698/)](https://www.linkedin.com/in/thiago-antunes-76590698/)
